@@ -1,1 +1,1 @@
-# HDL-projects
+# Coding projects using Verilog and SystemVerilog
