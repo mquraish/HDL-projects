@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Feb  1 12:20:55 2022
+[*]
+[dumpfile] "/home/mquraish/hrt/test.fst"
+[dumpfile_mtime] "Tue Feb  1 12:14:51 2022"
+[dumpfile_size] 2013
+[savefile] "/home/mquraish/hrt/wave.gtkw"
+[timestart] 0
+[size] 1920 1009
+[pos] 2221 -35
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] alu_tb.
+[sst_width] 191
+[signals_width] 215
+[sst_expanded] 1
+[sst_vpaned_height] 301
+@22
+alu_tb.dut.R0[11:0]
+alu_tb.dut.R1[11:0]
+alu_tb.dut.R2[11:0]
+alu_tb.dut.R3[11:0]
+alu_tb.dut.Rx[11:0]
+alu_tb.dut.Ry[11:0]
+alu_tb.dut.Rd[11:0]
+alu_tb.dut.instruction[11:0]
+alu_tb.dut.opcode[3:0]
+alu_tb.dut.immediate[5:0]
+@28
+alu_tb.dut.Rxn[1:0]
+alu_tb.dut.Ryn[1:0]
+alu_tb.dut.Rdn[1:0]
+@22
+alu_tb.dut.out_data[11:0]
+@29
+alu_tb.dut.out_valid
+[pattern_trace] 1
+[pattern_trace] 0
