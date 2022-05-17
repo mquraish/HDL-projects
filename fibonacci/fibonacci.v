@@ -20,9 +20,9 @@ always@(posedge clk or posedge rst) begin
 		internal_counter <= internal_counter + 1;
 		current_value <= current_value + previous_value;
 		previous_value <= current_value;
-      if(internal_counter == (nth_number -2)) begin
+      	if(internal_counter == (nth_number -2)) begin
 			number_ready <= 1;
-end
+		end
 		else begin
 			number_ready <= 0;
 		end
